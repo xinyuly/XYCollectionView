@@ -14,4 +14,5 @@
 [self.collectionViewAgent insertCell:cell atIndexPath:indexPath];
 ```
 
-![image](https://github.com/xinyuly/XYCollectionView/new/master/an.gif)
+![image](https://github.com/xinyuly/XYCollectionView/blob/master/an.gif)
+
