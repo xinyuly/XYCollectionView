@@ -7,9 +7,11 @@
 [self section1];
 [self section2];
 ```
-![image](https://github.com/xinyuly/XYBannerView/new/master/IMG_0058.png)
+
+
 ```objc
 //添加cell
 [self.collectionViewAgent insertCell:cell atIndexPath:indexPath];
 ```
-![image](https://github.com/xinyuly/XYBannerView/new/master/IMG_0059.png)
+
+![image](https://github.com/xinyuly/XYCollectionView/new/master/an.gif)
